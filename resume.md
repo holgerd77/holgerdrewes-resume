@@ -9,7 +9,7 @@
 
 ### Profile {#profile}
 
-Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.
+Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiative.
 
 ------
 
@@ -42,31 +42,60 @@ Progressively evolve cross-platform ideas before impactful infomediaries. Energi
 
 ### Experience {#experience}
 
-Initrode Conglomerated
-: *Principal and Creative Lead*
-  __2004-2005__
-  Intrinsicly transform flexible manufactured products without excellent intellectual capital. Energistically evisculate orthogonal architectures through covalent action items. Assertively incentivize sticky platforms without synergistic materials.
+BERwatch | BLBwatch
+: *Pirate Party Factions of Berlin and North-Rhine Westphalia (NRW)*
+  __2012-2013__
+  Conceptioning and development of a custom CMS system for exposing the inner structures of complex publicly funded projects. The system is used by the Pirate Party Faction in Berlin for accompanying the work of the commission of 
+  enquiry around the time delays of finishing the construction work of the Berlin airport. The Pirate Party Faction in NRW uses it for aggregating information around investigations examining potential real estate mismanagement by
+  the state-owned BLB company.
 
-Gizmonic Institute Company (GIM)
+  "Could become the standard for enquiry commissions." (German newspaper taz).
+
+Farmsubsidy.org
+: *OKF Germany / journalismfund.eu*
+  __2001-2004__
+  Globally re-engineer cross-media schemas through viral methods of empowerment. Proactively grow long-term high-impact human capital and highly efficient innovation. Intrinsicly iterate excellent e-tailers with timely e-markets.
+
+django-dynamic-scraper
+: *Open source library, GitHub*
+  __2001-2004__
+  Scraping library on GitHub with 300+ stars for easily manage and maintain a collection of scrapers. Ongoing 
+  development and community management, software tests and developer documentation.
+
+django-dynamic-scraper
 : *Lead Web Designer*
   __2001-2004__
   Globally re-engineer cross-media schemas through viral methods of empowerment. Proactively grow long-term high-impact human capital and highly efficient innovation. Intrinsicly iterate excellent e-tailers with timely e-markets.
+
+Farmsubsidy.org
+: *Lead Web Designer*
+  __2001-2004__
+  Globally re-engineer cross-media schemas through viral methods of empowerment. Proactively grow long-term high-impact human capital and highly efficient innovation. Intrinsicly iterate excellent e-tailers with timely e-markets.
+
+django-dynamic-scraper
+: *Lead Web Designer*
+  __2001-2004__
+  Globally re-engineer cross-media schemas through viral methods of empowerment. Proactively grow long-term high-impact human capital and highly efficient innovation. Intrinsicly iterate excellent e-tailers with timely e-markets.
+  human capital and highly efficient innovation. Intrinsicly iterate excellent e-tailers with timely e-markets.
+  human capital and highly efficient innovation. Intrinsicly iterate excellent e-tailers with timely e-markets.
+
+------
+
+<div style="page-break-after: always;"></div>
 
 ------
 
 ### Companies {#experience}
 
 ProNet Media GmbH
-: *Copartner*
+: *Copartner of 5-6 people, Berlin*
   __2000-2004__
-  Founded together with 5-6 people with economic and/or computer science backgrounds in Berlin in 2000. Development of 
-  dynamic web applications and custom CMS solutions with PHP/MySQL for various clients. Initial work on company-owned portal for bus companies called bustreff.de.
+  Development of dynamic web applications and custom CMS solutions with PHP/MySQL for various clients. Initial work on company-owned bus company web portal bustreff.de.
 
 Drewes & Scholz GbR
-: *Founder and Partner*
+: *Founder and Partner, Berlin/Frankfurt*
   __2004-__
-  Founded together with partner Michael Scholz in Berlin/Frankfurt in 2004. Custom web applications and software solutions
-  supporting business processes in the travel industry. Now running the search engine for German TV shows mediathekensuche.de together with an API solution for business customers.
+  Custom web applications, business process-supporting software solutions for travel industry. Now running a search engine for German TV shows mediathekensuche.de together with an API solution for business customers.
   
 
 ------
