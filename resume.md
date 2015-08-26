@@ -15,28 +15,28 @@ Progressively evolve cross-platform ideas before impactful infomediaries. Energi
 
 ### Skills {#skills}
 
-* Web Design
-  : Assertively exploit wireless initiatives rather than synergistic core competencies.
+* Web Applications
+  : Year-long experience in developing complex web applications both on the frontend and backend side with various technology stack adoptions over time.
 
-* Interface Design
-  : Credibly streamline mission-critical value with multifunctional functionalities.
+* Open Data
+  : Development of various web scraping solutions. Experience in cleaning up messy data. Providing API access to large amounts of data.
 
-* Project Direction
-  : Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
+* Open Source
+  : Various meaningful contributions to open source/open data projects. Open source community, release and expectation management.
 
 -------
 
 ### Technical {#technical}
 
-1. XHTML
-1. CSS
-1. Javascript
-1. Jquery
-1. PHP
-1. CVS / Subversion
-1. OS X
-1. Windows XP/Vista
+1. HTML / CSS
+1. Python / Django
 1. Linux
+1. Javascript / jQuery
+1. PostgreSQL / SQLite
+1. AWS / EC2
+1. Handlebars / Angular
+1. Solr / Elasticsearch
+1. Git / GitHub
 
 ------
 
