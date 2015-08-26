@@ -1,9 +1,9 @@
-# Craig Davis
-## Senior PHP Developer, UX Director
+# Holger Drewes
+## Senior Web Application Developer
 
 > [Download PDF](resume.pdf)  
-> [craig@there4development.com](craig@there4development.com)  
-> (999) 888-7777
+> [Holger.Drewes@gmail.com](Holger.Drewes@gmail.com)  
+> +49 (177) 4917021
 
 ------
 
@@ -54,8 +54,37 @@ Gizmonic Institute Company (GIM)
 
 ------
 
+### Companies {#experience}
+
+ProNet Media GmbH
+: *Copartner*
+  __2000-2004__
+  Founded together with 5-6 people with economic and/or computer science backgrounds in Berlin in 2000. Development of 
+  dynamic web applications and custom CMS solutions with PHP/MySQL for various clients. Initial work on company-owned portal for bus companies called bustreff.de.
+
+Drewes & Scholz GbR
+: *Founder and Partner*
+  __2004-__
+  Founded together with partner Michael Scholz in Berlin/Frankfurt in 2004. Custom web applications and software solutions
+  supporting business processes in the travel industry. Now running the search engine for German TV shows mediathekensuche.de together with an API solution for business customers.
+  
+
+------
+
+### Education {#experience}
+
+Gymnasium Blomberg
+: *Abitur (General Qualification for University Entrance)*
+  __1988-1997__
+
+TU Braunschweig
+: *Diploma degree in Business Informatics*
+  __1998-2005__ 
+
+------
+
 ### Footer {#footer}
 
-Craig Davis -- [craig@there4development.com](craig@there4development.com) -- (999) 888-7777
+Github: https://github.com/holgerd77 -- Projects: http://holgerdrewes.info -- Twitter: @HolgerD77
 
 ------
