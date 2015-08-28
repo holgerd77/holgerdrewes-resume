@@ -9,7 +9,8 @@
 
 ### Profile {#profile}
 
-Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiative.
+Passionate about working professionally, delighted and in the open and collaboration. Combining the
+great work of others with own creativity and insight for building new tools and software with an impact.
 
 ------
 
@@ -36,6 +37,9 @@ Progressively evolve cross-platform ideas before impactful infomediaries. Energi
 1. AWS / EC2
 1. Handlebars / Angular
 1. Solr / Elasticsearch
+1. Unit Tests
+1. Bower / Docker
+1. APIs
 1. Git / GitHub
 
 ------
@@ -54,31 +58,47 @@ BERwatch | BLBwatch
 django-dynamic-scraper
 : *Open source library, GitHub*
   __2011-__
-  Development and maintenance of an Open Source scraping library. The platform has 300+ stars on GitHub from other developers and is practically used for various web scraping projects. Building up and managing of a community and involving other developers contributing to the platform. Ensuring the quality and usability of the software by writing software tests and extensive
+  Development and maintenance of an Open Source scraping library. The platform has 300+ stars on GitHub from other developers and is practically used for various web scraping projects. Building up and management of a community and involving other developers contributing to the platform. Ensuring the quality and usability of the software by writing software tests and extensive
   documentation.
 
 Farmsubsidy.org
 : *OKF Germany / journalismfund.eu*
   __2014-__
   Processing and integration of large amounts of yearly agricultural subsidy payments data published by public bodies
-  of the different EU countries into the database and Solr search server of the Farmsubsidy.org web platform run by OKF Germany and journalismfund.eu. Conceptioning of a new scraping infrastrucure and writing extensive documentation for developers.
+  of the different EU countries into the database and Solr search server of the Farmsubsidy.org web platform run by OKF Germany and journalismfund.eu. Conceptioning of a new scraping infrastrucure and writing documentation for developers.
 
 Mediathekensuche | Mediathekensuche API
 : *Own startup company*
   __2007-__
-  Building up and running an own startup company (http://mediathekensuche.de, Drewes & Scholz GbR) providing a web platform for searching TV shows published in various media centers of german TV channels. API with near-realtime metadata
-  access for current shows for B2B customers (Deutsche Telekom AG, 1&1 Web.de).
+  Building up and running an own startup company (http://mediathekensuche.de, Drewes & Scholz GbR) providing a web platform for searching TV shows published in various media centers of german TV channels. API with near-realtime data
+  access on current shows for B2B customers (Deutsche Telekom AG, 1&1 Web.de).
 
-Nxt Cryptocurrency Client
-: *Contributions as Core Developer*
-  __Spring 2015__
-  Core development for Nxt Cryptocurrency being one of the large "Crypto 2.0" projects building on the ideas of the Bitcoin blockchain. Substantial code reorganization work and UI contributions for the Nxt Javascript browser client providing access to the functionality of the blockchain network. Distributed development with a team of 10-15 people.
+------
 
+### Footer {#footer}
 
+Github: https://github.com/holgerd77 -- Projects: http://holgerdrewes.info -- Twitter: @HolgerD77
 
 ------
 
 <div style="page-break-after: always;"></div>
+
+------
+
+### Experience {#experience}
+
+Nxt Cryptocurrency Client
+: *Contribution as Core Developer*
+  __Spring 2015__
+  Core development for Nxt Cryptocurrency being one of the large "Crypto 2.0" projects building on the ideas of the Bitcoin blockchain. Substantial code reorganization work and UI contributions for the Nxt Javascript browser client software providing access to the functionality of the blockchain network. Distributed development with a team of 10-15 people.
+
+Open Data Showroom | Open Data
+: *Open Knowledge Foundation | Open Data community*
+  __2010-__
+  Development and maintenance of the websites http://opendata-showroom.org and http://opendata-tools.org as showrooms
+  for open data projects and tools. Smaller projects and development work on hackdays for organizations like OpenOil,
+  OpenCorporates or OpenTED. Year-long engangement and exchange with the open data community on meet-ups and 
+  conferences.
 
 ------
 
