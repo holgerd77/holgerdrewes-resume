@@ -17,13 +17,13 @@ great work of others with own creativity and insight for building new tools and 
 ### Skills {#skills}
 
 * Web Applications
-  : Year-long experience in developing complex web applications both on the frontend and backend side with various technology stack adoptions over time.
+  : 10+ years of experience in developing complex web applications both on the frontend and backend side with various technology stack adoptions over time.
 
-* Open Data
-  : Development of various web scraping solutions. Experience in cleaning up messy data. Providing API access to large amounts of data.
+* Data Wrangling
+  : Development of web scraping solutions. Cleaning up and normalizing messy data. Building APIs for data access and exchange.
 
 * Open Source
-  : Various meaningful contributions to open source/open data projects. Open source community, release and expectation management.
+  : Various meaningful contributions to open source/open data projects and libraries. Community, release and expectation management.
 
 -------
 
@@ -49,23 +49,21 @@ great work of others with own creativity and insight for building new tools and 
 BERwatch | BLBwatch
 : *Pirate Party Factions of Berlin and North-Rhine Westphalia (NRW)*
   __2012-2013__
-  Conceptioning and development of a custom CMS system (Python/Django) for exposing the inner structures of complex publicly funded projects. The system is used by the Pirate Party Faction in Berlin for accompanying the work of the commission of 
-  enquiry around the time delays of finishing the construction work of the Berlin airport. The Pirate Party Faction in NRW uses it for aggregating information around investigations examining potential real estate mismanagement by
-  the state-owned BLB company.
+  Design and development of a custom CMS system (Python/Django) for exposing the inner structures of complex publicly funded projects. The system is used by the Pirate Party Faction in Berlin for accompanying the commission of 
+  enquiry on the construction work of the Berlin airport (BERwatch). The Pirate Party Faction in NRW uses it in the frame of investigations examining potential real estate mismanagement by the state-owned BLB company (BLBwatch).
 
   "Could become the standard for enquiry commissions." (German newspaper taz).
 
 django-dynamic-scraper
 : *Open source library, GitHub*
   __2011-__
-  Development and maintenance of an Open Source scraping library. The platform has 300+ stars on GitHub from other developers and is practically used for various web scraping projects. Building up and management of a community and involving other developers contributing to the platform. Ensuring the quality and usability of the software by writing software tests and extensive
-  documentation.
+  Design, development and maintenance of an Open Source scraping library. The platform has 300+ stars on GitHub and is used for various web scraping projects. Building a community and managing code contributions from other developers. Ensuring the quality and usability of the software by writing software tests and extensive documentation.
 
 Farmsubsidy.org
 : *OKF Germany / journalismfund.eu*
   __2014-__
-  Processing and integration of large amounts of yearly agricultural subsidy payments data published by public bodies
-  of the different EU countries into the database and Solr search server of the Farmsubsidy.org web platform run by OKF Germany and journalismfund.eu. Conceptioning of a new scraping infrastrucure and writing documentation for developers.
+  The Farmsubsidy.org platform provides access to agricultural subsidy payment data from the different EU countries and
+  is currently run by OKF Germany and journalismfund.eu. Technical platform operation and tool development for data normalization and integration. Design and partial implementation of a new scraping infrastrucure and writing developer documentation.
 
 Mediathekensuche | Mediathekensuche API
 : *Own startup company*
@@ -97,7 +95,7 @@ Open Data Showroom | Open Data
   __2010-__
   Development and maintenance of the websites http://opendata-showroom.org and http://opendata-tools.org as showrooms
   for open data projects and tools. Smaller projects and development work on hackdays for organizations like OpenOil,
-  OpenCorporates or OpenTED. Year-long engangement and exchange with the open data community on meet-ups and 
+  OpenCorporates or OpenTED. Continuous engangement and exchange with the open data community on meet-ups and 
   conferences.
 
 ------
